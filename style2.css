@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.khung {
+    width: 653px;
+    height: 439px;
+    margin: auto;
+    border: solid 2px;
+}
+.khung .imgauto {
+    position: relative;
+    top: -389px;
+    left: 41px;
+    color: rgb(42 29 29);
+    background-color: rgba(250, 187, 198,0.5);
+    border-radius: 5px;
+}
+.khung .imgcar {
+    position: relative;
+    top: -100px;
+    left: 40px;
+    color: wheat;
+  
+}

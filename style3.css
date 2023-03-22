@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.img {
+    background-image: url(https://data.webnhiepanh.com/wp-content/uploads/2020/11/21105453/phong-canh-1.jpg);
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 500px;
+    padding: 20px;
+}
+.img .contenr {
+    position: relative;
+    top: 384px;
+    left: 23px;
+    color: white;
+}

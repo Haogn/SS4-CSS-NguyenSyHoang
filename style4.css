@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.khung {
+    border: solid 1px orange;
+    background-color:orange ;
+    margin: auto;
+    padding-left: 20px;
+    width: 600px;
+    height: 250px;
+}
+.khung .content {
+    color: white;
+}
+.khung .tieude {
+    color: white;
+    position: relative;
+    left: 244px;
+    top: 4px;
+   
+}
+.khung .tieude .trai {
+    background-color: blueviolet;
+    font-size: 15px;
+}
+.khung .tieude .phai {
+    background-color: rgb(171, 136, 204);
+    font-size: 15px;
+}
+.khung .vanban {
+    max-width: 300px;
+    background-color: blueviolet;
+    color: white;
+    position: relative;
+    left: 176px;
+    top: 3px;
+}

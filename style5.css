@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.full {
+   
+    background-color: blueviolet;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px ;
+    border-radius: 10px;
+    position: relative;
+}
+.text {
+    width: 330px;
+    background-color: white;
+    height: 150px;
+    border: 1px;
+    border-radius: 10px;
+    position: absolute;
+    top: 143px;
+    left: 254px;
+    padding-left: 50px;
+    padding-top: 17px;
+}
+.vanban {
+    width: 200px;
+}
+.close {
+    color: gray;
+    position: absolute;
+    top: 150px;
+    left: 532px;
+}
+.out {
+    color: gray;
+    font-size: 10px;
+    position: absolute;
+    top: 79px;
+    left: 50px;
+}
